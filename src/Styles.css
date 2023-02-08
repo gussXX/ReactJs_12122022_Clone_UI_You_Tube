@@ -12,3 +12,22 @@ body::-webkit-scrollbar-thumb {
     border-radius: 20px;
     border: 0px solid #000000;  
 }
+
+#drawer::-webkit-scrollbar {
+    width: 8px;
+}
+
+#drawer::-webkit-scrollbar-track {
+    background: #000000;
+}
+
+#drawer::-webkit-scrollbar-thumb {
+    background-color: #aaaaaa;
+    width: 8px;
+    border-radius: 20px;
+    border: 0px solid #000000;  
+}
+
+#itemhover:hover{
+    background-color: #272727;
+}
